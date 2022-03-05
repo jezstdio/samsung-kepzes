@@ -1,0 +1,243 @@
+[
+    {
+        "name": "HDR fényerő",
+        "video": "hdr.mp4",
+        "options": [
+            {
+                "name": "HDR",
+                "description": "Magas kontraszt arány és színhelyesség."
+            },
+            {
+                "name": "Q HDR",
+                "description": "QLED TV-kben használt HDR technológia. Mivel a QLED TV-k önmagában magasabb fényerejűek, így jobban érezhető az egyre jobb és jobb képminőség."
+            },
+            {
+                "name": "Q HDR 1500, Q HDR 2000, Q HDR 3000, Q HDR 4000",
+                "description": "A Q HDR után levő szám a kijelző fényerejét jelenti nit-ben. Minél nagyobb, annál nagyobb a fényerő. A HDR technológiának köszönhetően emiatt pluszban nő a kontraszt és javul a szín. Gyakran szorzóként mutatják be, pl: Q HDR 16x, ahol 100-al megszorozva 16-ot, megkapjuk a kijelző fényerejét nit-ben. Rendszerint a filmeket 4000-res szabványra tervezik."
+            }
+        ]
+    },
+    {
+        "name": "Háttérfény technológia",
+        "image": "direct_full_array.jpeg",
+        "options": [
+            {
+                "name": "Mega Contrast",
+                "description": "Magas kontraszt. A hidegfényű LEDek miatt, melegebb árnyalatok eléréséhez csökkenteni kell a fényerőn és/vagy a kék szín erősségén."
+            },
+            {
+                "name": "Dual LED",
+                "description": "Hideg és melegfényű LEDek egyaránt segítik a kép megalkotását. Ennek köszönhetően javul a kontraszt és nem kell feláldozni a fényerőt és az egyes különálló színeket."
+            },
+            {
+                "name": "Direct Full Array",
+                "description": "A LEDek több zónára szétosztva teszi lehetővé a mélyebb fekete és világosabb fehér színeket, valamint az élesebb képet."
+            },
+            {
+                "name": "Quantum Matrix Technology",
+                "description": "Mini LED technológia QLED TV-kben."
+            },
+            {
+                "name": "Quantum Matrix Technology Pro",
+                "description": "8K TV-kbe szánt változata a Quantum Matrix Technologynek."
+            }
+        ]
+    },
+    {
+        "name": "Mélységfokozó",
+        "image": "real_depth_enhancer.jpg",
+        "options": [
+            {
+                "name": "Auto Depth Enhancer",
+                "description": "A kép több régiójának elemzésével és kontraszt állításával segít kialakítani nagyobb mélységélességet."
+            },
+            {
+                "name": "Real Depth Enhancer",
+                "description": "Pontosabb képfeldolgozó algoritmusok segítéségével tartja élesen készülékünk a fontosabb objektumokat, amíg a hátteret elhomályosítja."
+            }
+        ]
+    },
+    {
+        "name": "Látószög",
+        "video": "viewing_angle.mp4",
+        "options": [
+            {
+                "name": "Wide & Ultra Viewing Angle",
+                "description": "A kijelző színvilága, kontrasztja és fényereje kicsit, vagy csak minimálisan változik ha nem középről, hanem valamelyik oldalról nézzük."
+            }
+        ]
+    },
+    {
+        "name": "Tükröződés csökkentés",
+        "image": "anti_reflection.jpg",
+        "description": "A kijelző nem, vagy sokkal kevésbé veri vissza a fényt."
+    },
+    {
+        "name": "Smart kalibrálás",
+        "image": "ezcal.gif",
+        "description": "Képernyő színhelyességének beállítása mobiltelefon használatának segítségével. Érdemes kirögzíteni a telefont a kalibrálás idejére.",
+        "options": [
+            {
+                "name": "Basic",
+                "description": "Időtartama körülbelül 3 perc. Fehéregyensúly, szürkeárnyalatok és gamma beállítása."
+            },
+            {
+                "name": "Professional",
+                "description": "Időtartama körülbelül 15 perc. Fehéregyensúly, szürkeárnyalatok, gamma és színhelyesség beállítása. A kalibrálás elvégezéséhez a szoba besötétítésére van szükség."
+            }
+        ]
+    },
+    {
+        "name": "Szemkímélő mód",
+        "image": "adaptive.gif",
+        "description": "A készülék automatikusan állítja fényerejét a beépített fényérzékelőknek, valamint a helyzetünk szerint beállított napfelkelte/naplemente adatoknak köszönhetően. Ugyanígy csökkenti a kék fényeket is sötétedésnél."
+    },
+    {
+        "name": "AI felkonvertálás",
+        "video": "ai_scaling.mp4",
+        "description": "A jel, a forrás és az egymás utáni képkockákat egyaránt figyelembe véve javítja az alacsonyabb felbontású felvételek minőségét."
+    },
+    {
+        "name": "Dolby Atmos",
+        "video": "dolby_atmos.mp4",
+        "description": "Dolby Atmos támogatás."
+    },
+    {
+        "name": "Active Voice Amplifier",
+        "image": "active_voice_amplifier.jpg",
+        "description": "A készülék figyeli a háttérzajokat és szükség esetén felhangosítja/lehalkítja a beszédhangot, hogy a műsor továbbra is érthető maradjon."
+    },
+    {
+        "name": "OTS",
+        "video": "ots.mp4",
+        "description": "Többirányú hangzás. Szoftveresen követi a hangot kiadó objektumokat, ezzel keltve 3D hangzást.",
+        "options": [
+            {
+                "name": "OTS Lite",
+                "description": "Hangszórók alul."
+            },
+            {
+                "name": "OTS",
+                "description": "Hangszórók alul és felül."
+            },
+            {
+                "name": "OTS+",
+                "description": "Hangszórók alul, felül és oldalt."
+            },
+            {
+                "name": "OTS Pro",
+                "description": "Hangszórók alul, felül, oldalt és középen."
+            }
+        ]
+    },
+    {
+        "name": "Q Symphony",
+        "video": "q_symphony.mp4",
+        "description": "A TV és a kompatibilis Soundbar egyszerre ad ki hangot, hogy a hangzás még teljesebb legyen."
+    },
+    {
+        "name": "Multi View",
+        "image": "multi_view.jpg",
+        "description": "Több képernyő megjelenítése a kijelzőn. Egyfajta osztott képernyős mód.",
+        "options": [
+            {
+                "name": "2 screen",
+                "description": "2 képernyő megjelenítése a kijelzőn."
+            },
+            {
+                "name": "4 screen",
+                "description": "4 képernyő megjelenítése a kijelzőn."
+            }
+        ]
+    },
+    {
+        "name": "Okos távirányító",
+        "video": "remote.mp4",
+        "options": [
+            {
+                "name": "Smart",
+                "description": "Samsung Smart távirányító, AAA elemekkel."
+            },
+            {
+                "name": "Solar",
+                "description": "Samsung Smart távirányító, napelemekkel. Elemcsere helyett napenergiával tölthető távirányító."
+            }
+        ]
+    },
+    {
+        "name": "Workspace",
+        "image": "workspace.jpeg",
+        "options": [
+            {
+                "name": "Normal",
+                "description": "Számítógéped képernyőjének megjelenítése a kijelzőn. Windows 10 Pro, vagy macOS 10.5 vagy újabb oprendszereket igényel."
+            },
+            {
+                "name": "Advanced",
+                "description": "Számítógépek automatikus felismerése és könnyű kapcsolódás a képernyőhöz. Samsung fiókot, 'Könnyű kapcsolódás a képernyőhöz alkalmazást' és Windows operációs rendszert igényel. macOS nem támogatott."
+            }
+        ]
+    },
+    {
+        "name": "Beépített IoT Hub",
+        "image": "iot.jpg",
+        "description": "Otthoni okos eszközök irányítása és követése a TV készülék segítségével."
+    },
+    {
+        "name": "FreeSync",
+        "video": "freesync.mp4",
+        "options": [
+            {
+                "name": "FreeSync",
+                "description": "FreeSync támogatás."
+            },
+            {
+                "name": "Premium Pro",
+                "description": "FreeSync és HDR támogatás."
+            }
+        ]
+    },
+    {
+        "name": "Szuper széles játék mód",
+        "video": "ultra_vide_gaming_mode.mp4",
+        "description": "Azok a játékok amik támogatják ezt az opciót, a TV képes átváltani 21:9 vagy 32:9-es képarányra."
+    },
+    {
+        "name": "Game Bar",
+        "image": "game_bar.jpg",
+        "options": [
+            {
+                "name": "2.0",
+                "description": "Információs sáv megjelenítése játékokhoz. Mutatja a bemeneti késleltetést (input lag), FPSt, HDR támogatást, VRRt (Variable Refresh Rate/Változó frissítési gyakoriság), Hang kimenetet (Sound Output), Képarányt (Screen Ratio) és a Kép elhelyezkedését (Screen Position)."
+            }
+        ]
+    },
+    {
+        "name": "Motion Xcelerator",
+        "image": "xcelerator.jpg",
+        "options": [
+            {
+                "name": "Normal",
+                "description": "A háttérvilágítás állításával csökkenti a mozgás közben felmerülő elmosódás mértékét."
+            },
+            {
+                "name": "Turbo+",
+                "description": "120Hz"
+            },
+            {
+                "name": "Turbo Pro",
+                "description": "4K/144Hz"
+            }
+        ]
+    },
+    {
+        "name": "Slim One Connect Box",
+        "image": "slim_one_connect_box.jpg",
+        "description": "Egy külön kis box, ami egyetlen kábellel csatlakozik a TV-hez. Ez a doboz helyettesíti a korábban TV-be integrált csatlakozókat és portokat. Neki köszönhetően a készülék sokkal vékonyabb lehet."
+    },
+    {
+        "name": "Infinity Screen",
+        "image": "infinity_screen.jpeg",
+        "description": "100%-ban káva nélküli kijelző."
+    }
+]
